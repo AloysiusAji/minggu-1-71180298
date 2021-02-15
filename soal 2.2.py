@@ -1,3 +1,7 @@
+#Aloysius Gonzaga Ardhian Krisna Aji
+#Universitas Kristen Duta Wacana
+#71180298
+
 '''Menghitung nilai fungsi f(x) = 2x**3 + 2x + 15/x , jika x merupakan bilangan
 bulat sembarang.'''
 

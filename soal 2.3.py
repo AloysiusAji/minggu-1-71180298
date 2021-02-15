@@ -1,3 +1,7 @@
+#Aloysius Gonzaga Ardhian Krisna Aji
+#Universitas Kristen Duta Wacana
+#71180298
+
 '''Budi tertarik untuk melamar pekerjaan pada liburan semester yang akan berlangsung
 selama 5 minggu. Gaji yang diberikan adalah gaji per jam. Total pajak yang harus budi
 bayarkan dari penghasilannya selama bekerja adalah 14%. Setelah membayar pajak, budi

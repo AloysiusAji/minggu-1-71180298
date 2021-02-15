@@ -1,3 +1,7 @@
+#Aloysius Gonzaga Ardhian Krisna Aji
+#Universitas Kristen Duta Wacana
+#71180298
+
 '''Menghitung rata-rata dari 3 bilangan bulat sembarang.'''
 
 print("Menghitung rata-rata dari 3 bilangan bulat sembarang")
