@@ -14,6 +14,8 @@ Martin berencana menggunakan 25% dari sisa uangnya untuk disedekahkan.
 30% nya akan diserahkan kepada gereja, dan sisanya akan
 diserahkan ke panti asuhan.'''
 
+print("=====Input=====")
+
 gajiperjam = int(input("1. Gaji perjam yang diinginkan martin: "))
 jumlahjamkerja = int(input("2. Jumlah jam kerja yang akan dilakukan dalam 1 minggu:"))
 
